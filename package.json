@@ -1,6 +1,6 @@
 {
   "name": "vxe-table-nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vxe Table module for Nuxt",
   "type": "module",
   "scripts": {
